@@ -50,8 +50,8 @@ var settings = module.exports = {
     httpStatic: path.join(__dirname,"public"),
 
     functionGlobalContext: { 
-    	os:require('os') 
-    	process:require('process') 
+    	osModule:require('os') ;
+    	processModule:require('process');
     },
 
     storageModule: require("./couchstorage")
