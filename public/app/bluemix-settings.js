@@ -51,7 +51,7 @@ var settings = module.exports = {
 
     functionGlobalContext: { 
     	osModule:require('os'), 
-    	processModule:require('process')
+    	processModule:process
     },
 
     storageModule: require("./couchstorage")
