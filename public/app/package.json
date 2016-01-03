@@ -14,7 +14,24 @@
         "node-red-contrib-scx-ibmiotapp":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-nodes-cf-sqldb-dashdb":"0.x"
+        "node-red-nodes-cf-sqldb-dashdb":"0.x",
+        "node-red-contrib-batcher":"0.x",
+        "node-red-ibmconnections":"0.x",
+        "node-red-contrib-flow-dispatcher":"0.x",
+        "node-red-contrib-primitives":"0.x",
+        "node-red-node-swagger":"0.x",
+        "node-red-contrib-npm":"1.x",
+        "node-red-contrib-ftp":"0.x",
+        "node-red-filter":"0.x",
+        "node-red-node-google":"0,x",
+        "node-red-node-alchemy-sentiment":"0.x",
+        "node-red-contrib-postgres":"0.x",
+        "node-red-node-geohash":"0.x",
+        "node-red-contrib-json":"0.x",
+        "node-red-contrib-jsonpath":"0.x",
+        "node-red-node-base64":"0.x",
+        "node-red-node-geofence":"0.x",
+        "node-red-contrib-async":"0.x"
     },
     "engines": {
         "node": "0.10.x"
