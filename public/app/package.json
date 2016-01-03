@@ -23,7 +23,7 @@
         "node-red-contrib-npm":"1.x",
         "node-red-contrib-ftp":"0.x",
         "node-red-filter":"0.x",
-        "node-red-node-google":"0,x",
+        "node-red-node-google":"0.x",
         "node-red-node-alchemy-sentiment":"0.x",
         "node-red-contrib-postgres":"0.x",
         "node-red-node-geohash":"0.x",
