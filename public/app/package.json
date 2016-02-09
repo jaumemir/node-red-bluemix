@@ -31,7 +31,8 @@
         "node-red-contrib-jsonpath":"0.x",
         "node-red-node-base64":"0.x",
         "node-red-node-geofence":"0.x",
-        "node-red-contrib-async":"0.x"
+        "node-red-contrib-async":"0.x",
+        "node-red-contrib-kafka-node":"0.x"
     },
     "engines": {
         "node": "0.10.x"
